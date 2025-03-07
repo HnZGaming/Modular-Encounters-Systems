@@ -19,7 +19,6 @@
         [SpaceRandomEncounter:false]
         [AtmosphericCargoShip:false]
         [PlanetaryInstallation:false]
-        [RivalAiSpawn:false]
 
         [FactionOwner:SPRT]
         [ReplenishSystems:true]
